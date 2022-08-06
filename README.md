@@ -4,7 +4,9 @@ Layouting the UI for E-Wallet App
 
 ## Youtube Video
 
-[]: # Youtube Video: https://youtu.be/ROkRpuWsOYs
+[![Watch the video](https://img.youtube.com/vi/ROkRpuWsOYs/sddefault.jpg)](https://youtu.be/ROkRpuWsOYs)
+
+https://youtu.be/ROkRpuWsOYs
 
 
 ## ScreenShot
